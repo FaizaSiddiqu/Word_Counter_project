@@ -1,6 +1,6 @@
 {
-  "name": "fs6_word-_counter",
-  "version": "1.0.0",
+  "name": "fs6_word_counter",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "type": "module",
